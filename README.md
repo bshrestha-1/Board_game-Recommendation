@@ -1,6 +1,6 @@
 # Board Game Recommendation System
 
-This simple project implements a content-based recommendation system for board games. Given a dataset of board games (boardgames.csv from previous repo) and a list of games a user has already rated (another csv file), the system predicts and recommends new games that the user will likely enjoy.
+This simple project implements a content-based recommendation system for board games. Given a dataset of board games (boardgames.csv from previous repo) and a list of games a user has already rated (another csv file), the system predicts and recommends new games that the user will likely enjoy. This system is similar in principle to Netflix's recommendation system and can be used as such.
 
 
 ## How It Works
